@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1592925164 source:c:\users\yuchen\desktop\poker\class.cpp
+	"class.h"
+	<iomanip>
+	<iostream>
+	<time.h>
+
+1592925056 c:\users\yuchen\desktop\poker\class.h
+	<iostream>
+	<vector>
+	<windows.h>
+
+1592925055 source:c:\users\yuchen\desktop\poker\main.cpp
+	"class.h"
+	<iostream>
+
